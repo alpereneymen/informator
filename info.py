@@ -10,6 +10,6 @@ while 1:
     req = raw_input("\nInformator >")
     if req == "generate":
         exec(start)
-        print "Powered By TurkeySec"
+        print "Powered By Alperen Eymen Ozcan"
     else:
         print "If you generate Information , you must use 'generate' command."
